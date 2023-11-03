@@ -1,7 +1,10 @@
+---
 layout: page
 title: "Example Page"
 permalink: /example-page
-
+author:
+  - Chris Reading
+---
 # Ingenium postquam nomen prius Troius
 
 ## Dum iungi coacti sanguine gelido caespite
