@@ -1,2 +1,6 @@
 markdown: CommonMarkGhPages
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+
+sidebar:
+  - index
+  - example-page 
