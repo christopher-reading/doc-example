@@ -1,3 +1,7 @@
+layout: page
+title: "Example Page"
+permalink: /example-page
+
 # Ingenium postquam nomen prius Troius
 
 ## Dum iungi coacti sanguine gelido caespite
